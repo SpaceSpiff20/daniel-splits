@@ -1,8 +1,9 @@
-transformers>=4.41.0
-datasets>=2.19.0
-accelerate>=0.30.0
+transformers
+datasets
+accelerate
 torch
 numpy
 pandas
 matplotlib
 tqdm
+google-cloud-storage
