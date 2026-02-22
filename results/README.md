@@ -18,7 +18,7 @@ My main reasoning is that you can just append to the file from your notebook and
 ## Schema (One Line Per Run)
 
 Here is an example, each line contains the following fields:
-
+```json
 {
   "timestamp": "ISO-8601 string",
   "model": "qwen3-4b",
@@ -33,7 +33,7 @@ Here is an example, each line contains the following fields:
   "prompt_tokens": 1420,
   "peak_vram_gb": 9.73
 }
-
+```
 ---
 
 ## Required Fields
